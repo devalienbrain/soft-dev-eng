@@ -6,8 +6,8 @@ const About = () => {
   return (
     <div>
       <AboutMe></AboutMe>
-      <Education></Education>
       <Experience></Experience>
+      <Education></Education>
     </div>
   );
 };

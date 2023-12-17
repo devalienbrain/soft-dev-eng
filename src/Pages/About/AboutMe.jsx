@@ -11,7 +11,7 @@ function AboutMe() {
         </div>
         <div className="flex-1 text-left">
           <h2 className="text-3xl font-bold md:text-4xl py-5">
-            A passionate React Front-end Developer.
+            A passionate Soft.
           </h2>
           <p className="text-sm font-semibold mb-8 flex flex-col gap-7">
             <p>
