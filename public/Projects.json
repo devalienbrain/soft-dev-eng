@@ -1,0 +1,28 @@
+[
+  {
+    "id": 1,
+    "websiteName": "Pawspalace -pet adoption and donation project",
+    "technology": "React.js, Tailwindcss, Firebase, Express.js, Mongodb, Stripe",
+    "details": "This project integrates Firebase for authentication, MongoDB for CRUD operations, React.js for the frontend, Express.js for the backend and includes Stripe for payment options. There also implemented user/admin role.",
+    "liveSiteLink": "https://pawspalace-pet-adoption.web.app/",
+    "githubClientCode": "https://github.com/devalienbrain/Pet-Adoption-MERN-Project-Client",
+    "githubServerCode": "https://github.com/devalienbrain/Pet-Adoption-MERN-Project-Server"
+  },
+  {
+    "id": 2,
+    "websiteName": "BookByte- online library management system",
+    "technology": "React.js, Tailwindcss, Firebase, Express.js, Mongodb",
+    "details": "The library management software named BookByte developed using React with CRUD (Create, Read, Update, Delete) functionality and JWT (JSON Web Tokens) for authentication and security.",
+    "liveSiteLink": "https://library-management-crud-jwt.web.app/",
+    "githubClientCode": "https://github.com/devalienbrain/Online-library-bookbyte-project",
+    "githubServerCode": "https://github.com/devalienbrain/Online-library-bookbyte-server"
+  },
+  {
+    "id": 3,
+    "websiteName": " Yoga And Fitness Retreats -event management site by Dr. Fatiha",
+    "technology": "React.js, Tailwindcss, Firebase",
+    "details": "This project crafted dynamic React frontend with Tailwind CSS for modern aesthetics, integrated secure Firebase authentication—delivering seamless user experiences..",
+    "liveSiteLink": "https://event-management-yoga.web.app/",
+    "githubClientCode": "https://github.com/devalienbrain/Event-management-yoga-retreat-frontend-project"
+  }
+]
