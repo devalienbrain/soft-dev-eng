@@ -13,7 +13,7 @@ function AboutMe() {
           <h2 className="text-3xl font-bold md:text-4xl py-5">
             A passionate Software Engineer.
           </h2>
-          <p className="text-sm font-semibold mb-8 flex flex-col gap-7 text-blue-700/50">
+          <p className="text-sm font-semibold mb-8 flex flex-col gap-7 text-zinc-700/90">
             <p>
               I’m currently working on React front-end projects, weaving
               together polished user interfaces with the power of Tailwind CSS,
