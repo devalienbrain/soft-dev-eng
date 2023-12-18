@@ -1,6 +1,5 @@
-import React from "react";
 import PageTitle from "../../Components/PageTitle/PageTitle";
-import featPhoto from "/Resources/hassanDev.png";
+import edu from "../../../public/Resources/edu.png";
 
 const Education = () => {
   const title = "Education.";
@@ -8,18 +7,19 @@ const Education = () => {
 
   return (
     <section className="my-7">
+      <PageTitle title={title} subTitle={subTitle}></PageTitle>
+
       <div className="container mx-auto flex flex-col md:flex-row justify-between items-center gap-11">
         <div className="flex-1">
           <div className="w-full md:w-3/4 mx-auto flex items-center justify-center">
-            <img src={featPhoto} alt="Featured" className="w-full" />
+            <img src={edu} alt="Featured" className="w-full" />
           </div>
         </div>
         <div className="flex-1 text-left">
           <div className="my-10">
-            <PageTitle title={title} subTitle={subTitle}></PageTitle>
             <section className="p-5">
               <div className="flex flex-col gap-5">
-                <div className="divider divider-success w-1/4 mx-auto"></div>
+                <div className="divider divider-success w-1/4 "></div>
                 <h5 className="font-medium text-lg">Bachelor in</h5>
                 <h2 className="font-extrabold text-xl">
                   Computer Science & Engineering

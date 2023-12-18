@@ -9,9 +9,9 @@ const Footer = () => {
         <div className="flex flex-col text-left">
           <h3 className="font-black text-xl">Contacts</h3>
           <p className="flex flex-col text-left text-sm text-zinc-300/70">
-            <small>email: hassan.devalienbrain@gmail.com</small>
-            <small>phone: +880 1893 070812</small>
-            <small>location: Dhaka, Bangladesh</small>
+            <small>Email: sabbirmurad.doict@gmail.com</small>
+            <small>Phone: +880 1893 070812</small>
+            <small>Location: Dhaka, Bangladesh</small>
           </p>
         </div>
         <nav>
@@ -24,14 +24,14 @@ const Footer = () => {
             Github
           </a>
           <a
-            href="https://www.linkedin.com/in/hassan-mohammad-21a0962a0/"
+            href="https://www.linkedin.com/in/md-sabbir-hassan-murad/"
             target="_blanc"
             className="link link-hover"
           >
             Linkedin
           </a>
           <a
-            href="https://drive.google.com/file/d/1ju22iiK1HEU-B1W8Pn1CKIC1DBM7lhtt/view?usp=sharing"
+            href="https://drive.google.com/file/d/1NaKFbDg-tRJdA_TmnNz697sOZQuxa0_8/view?usp=sharing"
             target="_blanc"
             className="link link-hover"
           >
@@ -44,7 +44,7 @@ const Footer = () => {
       </div>
       <div className="text-center text-xs pt-16">
         <p>
-          <small>@ 2023 Hassan + Web Developer</small>
+          <small>@ 2023 Sabbir || Software Engineer</small>
         </p>
       </div>
     </div>

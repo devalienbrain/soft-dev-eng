@@ -6,9 +6,9 @@ const Resume = () => {
   const subTitle =
     "Feel free to skip the download button and dive straight into the awesomeness that is my professional summary. It's like the golden nugget of my career story – compact, compelling, and ready to make a lasting impression. Let's make this journey through my skills and achievements a memorable one!.";
   const cvDownloadLink =
-    "https://drive.google.com/uc?export=download&id=1ju22iiK1HEU-B1W8Pn1CKIC1DBM7lhtt";
+    "https://drive.google.com/uc?export=download&id=1NaKFbDg-tRJdA_TmnNz697sOZQuxa0_8";
   const cvGoogleDriveLink =
-    "https://drive.google.com/file/d/1ju22iiK1HEU-B1W8Pn1CKIC1DBM7lhtt/view?usp=sharing";
+    "https://drive.google.com/file/d/1NaKFbDg-tRJdA_TmnNz697sOZQuxa0_8/view?usp=sharing";
   return (
     <div>
       <Helmet>

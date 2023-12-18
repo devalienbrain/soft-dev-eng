@@ -1,19 +1,19 @@
-import featPhoto from "/Resources/hassanDev.png";
+import featPhoto from "/Resources/dev.png";
 
 function AboutMe() {
   return (
     <section className="my-7">
-      <div className="container mx-auto flex flex-col md:flex-row justify-between items-center gap-11">
+      <div className="container mx-auto flex flex-col md:flex-row justify-between items-center gap-11 bg-blue-300/10">
         <div className="flex-1">
           <div className="w-full md:w-3/4 mx-autoflex items-center justify-center">
             <img src={featPhoto} alt="Featured" className="w-full" />
           </div>
         </div>
-        <div className="flex-1 text-left">
+        <div className="flex-1 text-left p-10">
           <h2 className="text-3xl font-bold md:text-4xl py-5">
-            A passionate Soft.
+            A passionate Software Engineer.
           </h2>
-          <p className="text-sm font-semibold mb-8 flex flex-col gap-7">
+          <p className="text-sm font-semibold mb-8 flex flex-col gap-7 text-blue-700/50">
             <p>
               I’m currently working on React front-end projects, weaving
               together polished user interfaces with the power of Tailwind CSS,
